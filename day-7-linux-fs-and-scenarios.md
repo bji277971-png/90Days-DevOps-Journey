@@ -55,6 +55,7 @@ ls -l /home
 
 **Observation**
 
+
 I found the ubuntu user's home directory.
 
 **I would use this when**
