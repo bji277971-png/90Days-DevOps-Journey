@@ -21,7 +21,9 @@ sudo chown ubuntu:ubuntu ~/nginx-logs.txt
 cat ~/nginx-logs.txt
 ```
 <img width="1437" height="373" alt="Image" src="https://github.com/user-attachments/assets/eadd95d1-a1c7-4052-a6c2-98978f55033d" />
+
 <img width="1570" height="536" alt="Image" src="https://github.com/user-attachments/assets/c9c59b93-f3ee-49e0-88fd-ba012cead697" />
+
 <img width="599" height="91" alt="Image" src="https://github.com/user-attachments/assets/50f430f5-257a-40aa-b12b-367e7ce691f5" />
 ---
 
