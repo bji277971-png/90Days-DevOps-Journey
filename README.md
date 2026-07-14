@@ -1,4 +1,4 @@
-# 🚀 90Days-DevOps-Journey
+#  90Days-DevOps-Journey
 
 Welcome to my **90 Days DevOps Journey**!
 
@@ -8,7 +8,7 @@ My goal is not just to complete the challenge, but to understand every concept a
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Hi, I'm **Bala ji**.
 
@@ -23,7 +23,7 @@ I believe consistency beats perfection, so I'm committed to learning and practic
 
 ---
 
-# 🎯 My Goal
+#  My Goal
 
 By the end of this journey, I want to gain hands-on experience with:
 
@@ -43,7 +43,7 @@ By the end of this journey, I want to gain hands-on experience with:
   
 ---
 
-# 📖 Learning Philosophy
+#  Learning Philosophy
 
 I believe learning is more valuable when concepts are understood instead of memorized.
 
@@ -59,7 +59,7 @@ This approach helps me build real understanding rather than just remembering com
 
 ---
 
-# 🚀 Current Focus
+#  Current Focus
 
 ✔ Linux Fundamentals
 
@@ -81,7 +81,7 @@ This approach helps me build real understanding rather than just remembering com
 
 ---
 
-# 🌱 Why This Repository?
+#  Why This Repository?
 
 This repository helps me:
 
