@@ -1,6 +1,6 @@
 # Day 18 – Shell Scripting: Functions & Intermediate Concepts
 
-# Scripts Created
+## Scripts Created
 
 - functions.sh
 - disk_check.sh
